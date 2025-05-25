@@ -1,3 +1,4 @@
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/IjoiK/modal-deploy-kohya-ss?utm_source=oss&utm_medium=github&utm_campaign=IjoiK%2Fmodal-deploy-kohya-ss&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
 # Run Kohya_SS GUI on Modal - Cloud-Based LoRA Training
 
 This repository provides a working configuration to run the popular Kohya_SS GUI (by bmaltais) on the [Modal](https://modal.com) serverless platform. This setup allows you to leverage powerful cloud GPUs (A10G, A100, H100, etc.) for training LoRA models (and other Dreambooth-style training) without complex local installations or CUDA/driver headaches.
